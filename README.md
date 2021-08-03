@@ -6,3 +6,4 @@
    - 📤LinkedIn: [Aleksandar-Lazic](https://www.linkedin.com/in/aleksandar-lazic-1474911b8/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandarLazic1998&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandarLazic1998)
