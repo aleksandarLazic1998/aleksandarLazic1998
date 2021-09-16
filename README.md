@@ -1,6 +1,6 @@
 ### Hi there I'am Aleksandar Lazic👋
 
-- 🌱 I’m currently learning: React Ecosystem.
+- 🌱 I’m currently learning: TypeScript.
 
 - 📨 Contact:
    - 📩Email: [gmail](https://mail.google.com/mail/u/1/#inbox),
