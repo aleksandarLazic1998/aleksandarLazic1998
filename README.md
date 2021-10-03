@@ -10,6 +10,11 @@
 
 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aleksandarLazic1998)  
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandarLazic1998&count_private=true&show_icons=true&theme=radical)
 
 
@@ -33,7 +38,6 @@
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aleksandarLazic1998)  
 
 
 
