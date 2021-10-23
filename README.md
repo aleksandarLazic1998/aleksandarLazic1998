@@ -30,18 +30,5 @@
 
 
 
-
-
-
-
-
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aleksandarLazic1998)
 
-
-
-
-
-### Latest Project: 
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandarLazic1998&repo=Make-A-Post)
