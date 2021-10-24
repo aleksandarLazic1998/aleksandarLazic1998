@@ -24,7 +24,7 @@
 
 - Testing: 
 <p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://testing-library.com/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/75834819/138593358-e77f158b-28ea-4f2e-b746-7e6978e3af5f.png)" alt="react-testing" width="40" height="40"/> </a>
+<a href="https://testing-library.com/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/75834819/138593528-970bb192-ca9c-4707-889f-d76d7c1e4141.png)" alt="react-testing" width="40" height="40"/> </a>
 </p>
 
 
