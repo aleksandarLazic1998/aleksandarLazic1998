@@ -24,7 +24,7 @@
 
 ### Most used Technologies:
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandarLazic1998)
 
 
 
