@@ -1,6 +1,6 @@
 ### Hi there I'am Aleksandar Lazic👋
 
-- 🌱 I’m currently learning: React and Redux with TypeScript.
+- 🌱 I’m currently learning: Node.js
 - 📨 Contact:
    - 📩Email: [gmail](https://mail.google.com/mail/u/1/#inbox),
    - 📤LinkedIn: [Aleksandar-Lazic](https://www.linkedin.com/in/aleksandar-lazic-1474911b8/)
