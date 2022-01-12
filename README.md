@@ -1,6 +1,7 @@
 ### Hi there I'am Aleksandar Lazic👋
 
-- 🌱 I’m currently learning: Node.js
+- 🌱 I’m currently learning: 1. BE: Node.js, Express and NestJS,
+                              2. DB: PostgreSQL, MongoDB, Mongoose, mySQL.
 - 📨 Contact:
    - 📩Email: [gmail](https://mail.google.com/mail/u/1/#inbox),
    - 📤LinkedIn: [Aleksandar-Lazic](https://www.linkedin.com/in/aleksandar-lazic-1474911b8/)
