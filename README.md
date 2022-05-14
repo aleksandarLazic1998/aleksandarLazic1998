@@ -30,3 +30,7 @@
 React-Testing library
 </a> 
 </p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aleksandarLazic1998)](https://github.com/ryo-ma/github-profile-trophy)
+
