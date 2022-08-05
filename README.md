@@ -47,7 +47,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/aleksandarLazic1998/aleksandarLazic1998/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
