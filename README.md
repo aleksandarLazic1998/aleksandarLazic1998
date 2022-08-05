@@ -46,4 +46,4 @@
 ###
 
 <br clear="both">
-![snake gif](https://github.com/aleksandarLazic1998/aleksandarLazic1998/blob/output/github-contribution-grid-snake.gif)
+(https://github.com/aleksandarLazic1998/aleksandarLazic1998/blob/output/github-contribution-grid-snake.gif)
