@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Interested in: NestJS, PostrgeSQL, mySQL</h4>
+<h4 align="left">Interested in: Go, PostrgeSQL, mySQL</h4>
 
 ###
 
