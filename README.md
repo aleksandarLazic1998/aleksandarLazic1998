@@ -84,6 +84,6 @@
 </div>
 
 
-![Snake animation](https://github.com/aleksandarLazic1998/aleksandarLazic1998/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/aleksandarLazic1998/aleksandarLazic1998/blob/output/github-contribution-grid-snake.svg)
 ###
 
