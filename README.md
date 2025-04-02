@@ -161,8 +161,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gulp/CF4647" height="30" alt="gulp logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/grunt/FAA918" height="30" alt="grunt logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
